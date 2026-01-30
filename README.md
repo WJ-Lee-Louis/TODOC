@@ -3,6 +3,15 @@
 ToDoc is an **AI-powered parenting support web service** designed to help first-time parents access **reliable, context-aware, and personalized childcare guidance**.  
 By integrating **Large Language Models (LLMs)** with **Retrieval-Augmented Generation (RAG)** and **child-specific records**, ToDoc aims to reduce information overload and uncertainty in parental decision-making.
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/45dd78ca-9307-4e3e-b0f6-512d20cc0c2f"
+       alt="Team2_홍보포스터"
+       width="49%" />
+  <img src="https://github.com/user-attachments/assets/a8b0e146-4fca-41b3-884f-5eca0f1d2f68"
+       alt="Team2_학술포스터"
+       width="49%" />
+</div>
+
 ---
 
 ## Project Motivation
